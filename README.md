@@ -69,8 +69,7 @@ Programı çalıştırdıktan sonra aşağıdaki sekmeleri göreceksiniz:
 
 ## Ekran Görüntüleri
 
-`screenshots` klasöründe programın ekran görüntülerini bulabilirsiniz. Bu klasöre aşağıdaki gibi ekran görüntüleri ekleyebilirsiniz:
-
+`screenshots` klasöründe programın ekran görüntülerini bulabilirsiniz.
 ## Screenshots
 
 Some images about the program.
