@@ -97,6 +97,12 @@ Some images about the program.
   ![Etkinlik Ekleme](screenshots/etkinlik_ekleme.png)
 
 
-## Lisans
+## License
 
-Bu proje MIT Lisansı altında lisanslanmıştır.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+If you encounter any issues or have questions, feel free to open an issue on GitHub or contact the maintainer.
+
+Happy coding!
