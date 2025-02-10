@@ -96,6 +96,10 @@ Some images about the program.
 - **Etkinlik Ekleme Penceresi:**  
   ![Etkinlik Ekleme](screenshots/etkinlik_ekleme.png)
 
+## Planlananlar:
+
+*   **AI ile liste ve takvim düzenleme:** AI ile takvum ve liste oluştururken prompta mevcut planlar dahil edilerek gerekirse düzenleyebileceği anlatılacak.
+*   **Bilinen sorunların giderilmesi:** Bilinen sorunlar giderilecek. Issues kısmından ulaşılabilirler.
 
 ## License
 
