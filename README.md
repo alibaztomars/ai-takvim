@@ -71,13 +71,20 @@ Programı çalıştırdıktan sonra aşağıdaki sekmeleri göreceksiniz:
 
 `screenshots` klasöründe programın ekran görüntülerini bulabilirsiniz. Bu klasöre aşağıdaki gibi ekran görüntüleri ekleyebilirsiniz:
 
-  ![Program Icon](screenshots/gorev_listesi.png): Görev Listesi sekmesinin ekran görüntüsü.
-  ![Program Icon](screenshots/takvim.png)`: Takvim sekmesinin ve etkinlik listesinin ekran görüntüsü.
-  ![Program Icon](screenshots/yz_program.png): Yapay Zeka sekmesinin "Program Takvimi" alt sekmesinin ekran görüntüsü.
-  ![Program Icon](screenshots/yz_liste.png): Yapay Zeka sekmesinin "Liste Oluşturma" alt sekmesinin ekran görüntüsü.
-  ![Program Icon](screenshots/yz_sc.png): Yapay Zeka sekmesinin "Soru & Cevap" alt sekmesinin ekran görüntüsü.
-  ![Program Icon](screenshots/gorev_ekleme.png): Görev Ekleme diyalog penceresinin ekran görüntüsü.
-  ![Program Icon](screenshots/etkinlik_ekleme.png): Etkinlik Ekleme diyalog penceresinin ekran görüntüsü.
+  ![Program Icon](screenshots/gorev_listesi.png)
+  Görev Listesi sekmesinin ekran görüntüsü.
+  ![Program Icon](screenshots/takvim.png)
+  Takvim sekmesinin ve etkinlik listesinin ekran görüntüsü.
+  ![Program Icon](screenshots/yz_program.png)
+  Yapay Zeka sekmesinin "Program Takvimi" alt sekmesinin ekran görüntüsü.
+  ![Program Icon](screenshots/yz_liste.png)
+  Yapay Zeka sekmesinin "Liste Oluşturma" alt sekmesinin ekran görüntüsü.
+  ![Program Icon](screenshots/yz_sc.png)
+  Yapay Zeka sekmesinin "Soru & Cevap" alt sekmesinin ekran görüntüsü.
+  ![Program Icon](screenshots/gorev_ekleme.png)
+  Görev Ekleme diyalog penceresinin ekran görüntüsü.
+  ![Program Icon](screenshots/etkinlik_ekleme.png)
+  Etkinlik Ekleme diyalog penceresinin ekran görüntüsü.
 
 ## Lisans
 
